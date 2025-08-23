@@ -24,6 +24,6 @@ MAC/PC/ios/安卓四端通用。
 - [Android通用防掉线设置](https://wd889.xlcc.live/common/common-ds.html)
 
 ## 常见问题
--[常见问题](https://wd889.xlcc.live/common/faqs.html)
+- [常见问题](https://wd889.xlcc.live/common/faqs.html)
 
 
