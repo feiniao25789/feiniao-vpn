@@ -8,3 +8,13 @@
 MAC/PC/ios/安卓四端通用。
 
 零日志，加密通讯保护用户隐私。
+
+## 安装教程
+- [IOS版本教程](https://wd889.xlcc.live/common/ios.html)
+- [Windows版本教程](https://wd889.xlcc.live/common/windows.html)
+- [Mac版本教程](https://wd889.xlcc.live/common/mac.html)
+- [Clash for Windows教程](https://wd889.xlcc.live/common/windows-spare.html)
+- [ClashX Pro教程](https://wd889.xlcc.live/common/mac-spare.html)
+
+
+
