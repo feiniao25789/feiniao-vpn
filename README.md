@@ -16,5 +16,14 @@ MAC/PC/ios/安卓四端通用。
 - [Clash for Windows教程](https://wd889.xlcc.live/common/windows-spare.html)
 - [ClashX Pro教程](https://wd889.xlcc.live/common/mac-spare.html)
 
+## Android不同手机防掉线
+- [小米防掉线设置](https://wd889.xlcc.live/common/ios.html)
+- [OPPO防掉线设置](https://wd889.xlcc.live/common/oppo-ds.html)
+- [VIVO防掉线设置](https://wd889.xlcc.live/common/vivo-ds.html)
+- [华为/荣耀防掉线设置](https://wd889.xlcc.live/common/huawei-ds.html)
+- [Android通用防掉线设置](https://wd889.xlcc.live/common/common-ds.html)
+
+## 常见问题
+-[常见问题](https://wd889.xlcc.live/common/faqs.html)
 
 
