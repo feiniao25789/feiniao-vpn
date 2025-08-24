@@ -21,11 +21,11 @@ MAC/PC/ios/安卓四端通用。
 - [OPPO防掉线设置](https://wd889.xlcc.live/common/oppo-ds.html)
 - [VIVO防掉线设置](https://wd889.xlcc.live/common/vivo-ds.html)
 - [华为/荣耀防掉线设置](https://wd889.xlcc.live/common/huawei-ds.html)
-
-2025年08月24日10点08分更新。
 - [Android通用防掉线设置](https://wd889.xlcc.live/common/common-ds.html)
 
 ## 常见问题
 - [常见问题](https://wd889.xlcc.live/common/faqs.html)
+
+  2025年08月24日10点08分更新。
 
 
